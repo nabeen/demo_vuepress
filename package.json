@@ -1,0 +1,25 @@
+{
+  "name": "demo_vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nabeen/demo_vuepress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabeen/demo_vuepress/issues"
+  },
+  "homepage": "https://github.com/nabeen/demo_vuepress#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.10"
+  }
+}
