@@ -6,7 +6,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -104,7 +105,7 @@ typings/
 .nuxt
 
 # vuepress build output
-.vuepress/dist
+dist
 
 # Serverless directories
 .serverless/
