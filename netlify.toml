@@ -4,5 +4,5 @@
   status = 200
 
 [build]
-  command = "npm src:build"
+  command = "npm run src:build"
   publish = "src/.vuepress/dist/"
